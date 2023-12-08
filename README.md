@@ -7,6 +7,8 @@ Tiny lab for design work and occasional electronics assembly and diagnostics. Al
 
 For contrast, the 'ElectronicsWorkstation' is for arranging the much more diverse supplies and tools needed for the more difficult purposes of both legacy equipment maintenance and pressing slightly defective prototypes into production use.
 
+Any vehicle, room, etc, used for KEEPOUT specifications is as a worst reasonable case. This is generic.
+
 AGPLv3 license by default. Usual policy of strictly limited no exceptions requirements for any consideration of relicensing applies.
 
 # Usage
@@ -18,6 +20,13 @@ Consider providing end-users an entire copy of this repository with all submodul
 
 
 # Design
+
+Maximum expectations for reasonably assured room size are:
+88in height (left corner)
+115in height
+99in height (right corner)
+140in length
+102in width
 
 
 # Redistribution and Preservation

@@ -1,0 +1,6 @@
+[submodule "_lib/ElectronicsWorkstation"]
+	path = _lib/ElectronicsWorkstation
+	url = git@github.com:mirage335/ElectronicsWorkstation.git
+[submodule "_lib/flightDeck"]
+	path = _lib/flightDeck
+	url = git@github.com:mirage335-gizmos/flightDeck.git
