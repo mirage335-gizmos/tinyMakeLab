@@ -7,7 +7,7 @@
 
 
 116.5x30inch desk extended
-
+38inch useful maximum height chosen
 
 
 
