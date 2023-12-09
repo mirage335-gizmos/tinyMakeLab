@@ -28,6 +28,15 @@ Maximum expectations for reasonably assured room size are:
 140in length
 102in width
 
+Clearance above bed:
+32in (preferred)
+
+Desk height range:
+22-51in
+
+Display height:
+38in (including some margin for stand)
+
 
 # Redistribution and Preservation
 
@@ -48,9 +57,14 @@ https://dot.ca.gov/programs/traffic-operations/legal-truck-access/vehicle-widths
 
 https://github.com/mirage335/ElectronicsWorkstation/blob/master/Render.png
 
+https://www.upliftdesk.com/uplift-v2-l-shaped-standing-desk/
+	'V2-Commercial Frame' 'Height Range'
 
 
+https://www.amazon.com/gp/product/B075QWGLVV/
+	'51.4 inches' ... '25.6 inches'
 
+https://www.amazon.com/dp/B0BRDBW2V7
 
 
 
