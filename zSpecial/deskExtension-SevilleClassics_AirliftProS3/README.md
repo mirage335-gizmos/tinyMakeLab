@@ -7,3 +7,13 @@
 
 
 116.5x30inch desk extended
+
+
+
+
+# Reference
+
+https://www.amazon.com/gp/product/B075QWGLVV/
+	'51.4 inches' ... '25.6 inches'
+
+
