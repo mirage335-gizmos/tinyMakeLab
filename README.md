@@ -20,13 +20,15 @@ Consider providing end-users an entire copy of this repository with all submodul
 
 
 # Design
+Room dimensions are:
+width
+
 
 Maximum expectations for reasonably assured room size are:
 88in height (left corner)
 115in height
 99in height (right corner)
 140in length
-102in width
 
 Clearance above bed:
 32in (preferred)
