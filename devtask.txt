@@ -4,3 +4,7 @@ TODO:
 *) Plates under bed (add a few inches extra overhang more than needed for bed).
 
 *) Shelf module with plates. Mindful that vertical timber will not exist where workbench may.
+
+*) Ladder, ladder stowage on bed.
+
+*) Computer cooling equipment, server racks, etc.
